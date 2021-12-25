@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>program using attributes</title>
+</head>
+<body>
+<header>
+<img src="aditya.jpg">
+</header>
+<main>
+<nav>
+<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;
+<a href="#">ABOUT</a>&nbsp;&nbsp;&nbsp;
+<a href="#">GOVERNING BODY</a>&nbsp;&nbsp;&nbsp;
+<a href="#">AUTONOMOUS</a>&nbsp;&nbsp;&nbsp;
+<a href="#">ACADEMICS</a>&nbsp;&nbsp;&nbsp;
+<a href="#">CONTACT</a>&nbsp;&nbsp;&nbsp;
+</nav>
+<aside>
+<article>
+<p>Aditya Engineering College is well versed college in east Godavari District.
+It is located in a vast area of 208 acres.</br>
+</article>
+</aside>
+<figure>
+<img src="tom.jpg"
+</figure>
+<section>
+IT department established in the year 2001 is striving hard for the wellbeing of the students.
+</section>
+<div>
+Mr.M Rajababu the leader of IT department.
+<div>
+<p>Aditya is spending an overall amount of 25 million<span style="color:red;">$</span>every year</p>
+</main>
+<footer>
+<p align="center">copy.right
+</body>
+</html>
+
